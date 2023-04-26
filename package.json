@@ -1,0 +1,24 @@
+{
+  "name": "random-str-danix",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielp14/random-str-danix.git"
+  },
+  "keywords": [],
+  "author": "Daniel Pintos <danielpintostec@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielp14/random-str-danix/issues"
+  },
+  "homepage": "https://github.com/danielp14/random-str-danix#readme",
+  "bin":{
+    "random-str-danix": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
